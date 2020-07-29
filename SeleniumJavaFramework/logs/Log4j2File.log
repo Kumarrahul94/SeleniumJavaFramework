@@ -1,0 +1,10 @@
+[TRACE] 2020-07-30 02:04:10.399 [main] Log4JDemo - This is trace message
+[INFO ] 2020-07-30 02:04:10.404 [main] Log4JDemo - This is information message
+[ERROR] 2020-07-30 02:04:10.405 [main] Log4JDemo - This is an error message
+[WARN ] 2020-07-30 02:04:10.405 [main] Log4JDemo - This is an warn message
+[FATAL] 2020-07-30 02:04:10.405 [main] Log4JDemo - This is an fatal message
+[TRACE] 2020-07-30 02:07:43.442 [main] Log4JDemo - This is trace message
+[INFO ] 2020-07-30 02:07:43.451 [main] Log4JDemo - This is information message
+[ERROR] 2020-07-30 02:07:43.451 [main] Log4JDemo - This is an error message
+[WARN ] 2020-07-30 02:07:43.453 [main] Log4JDemo - This is an warn message
+[FATAL] 2020-07-30 02:07:43.453 [main] Log4JDemo - This is an fatal message
